@@ -15,7 +15,7 @@ jobs:
   setup-up-azure-resources:
     runs-on: ubuntu-latest
 
-    if: contains(github.event.pull_request.labels.*.name, 'azure up')
+
 
     steps:
       - name: Checkout repository
