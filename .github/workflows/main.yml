@@ -3,7 +3,7 @@ name: Azure environment up
 on:
   pull_request:
     types: [labeled]
-
+//
 env:
   AZURE_RESOURCE_GROUP: githubaction_1
   AZURE_APP_PLAN: newweb-appserviceplan_1
