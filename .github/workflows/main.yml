@@ -6,7 +6,7 @@ on:
     
 
 env:
-  AZURE_RESOURCE_GROUP: actions-webapp-rggg
+  AZURE_RESOURCE_GROUP: actions-webapp-rgggg
   AZURE_APP_PLAN: actions-asp
   AZURE_LOCATION: '"Central US"'
   AZURE_WEBAPP_NAME: node-0627202098989
